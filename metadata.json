@@ -1,0 +1,7 @@
+{
+  "uuid": "run-dialog-search@mecheye.net",
+  "name": "Run Dialog Search",
+  "original-author": "jstpierre@mecheye.net",
+  "description": "Make the run dialog use the Shell search system",
+  "shell-version": ["3.4", "3.5.1", "3.5.2", "3.5.3"]
+}
